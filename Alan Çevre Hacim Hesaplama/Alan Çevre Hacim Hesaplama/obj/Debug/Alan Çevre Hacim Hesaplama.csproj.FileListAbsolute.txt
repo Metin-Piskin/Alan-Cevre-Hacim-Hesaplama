@@ -1,0 +1,37 @@
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\bin\Debug\Alan Çevre Hacim Hesaplama.exe.config
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\bin\Debug\Alan Çevre Hacim Hesaplama.exe
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\bin\Debug\Alan Çevre Hacim Hesaplama.pdb
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan Çevre Hacim Hesaplama.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.Alan.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.Giriş.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.Hacim.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.KareÇevre.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.Çevre.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan Çevre Hacim Hesaplama.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan Çevre Hacim Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan Çevre Hacim Hesaplama.exe
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan Çevre Hacim Hesaplama.pdb
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.ÇemberÇevre.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.DikdörtgenÇevre.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.ParalelkenarÇevre.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.ÜçgenÇevre.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.YamukÇevre.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.EşkenarDörtgenÇevre.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.DüzgünÇokgenÇevre.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.ElipsÇevre.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.DikdörtgenAlan.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.ElipsAlan.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.EşkenarÜçgenAlan.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.KareAlan.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.ParalelkenarAlan.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.ÇemberAlan.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.ÜçgenAlan.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.EşkenarDörtgenAlan.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.KüpHacim.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.YamukAlan.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.DikdörtgenlerPrizmasıHacim.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.DikKoniHacim.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.DikPiramitHacim.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.KüreHacim.resources
+C:\Users\Metin\source\repos\Metin Form\Alan Çevre Hacim Hesaplama\Alan Çevre Hacim Hesaplama\obj\Debug\Alan_Çevre_Hacim_Hesaplama.SilindirHacim.resources
